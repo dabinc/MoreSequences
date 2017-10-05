@@ -303,7 +303,7 @@ def contains_an_a(s):
       :type s: str
     """
     # ------------------------------------------------------------------
-    # TODO: 5. Implement and test this function.
+    # T ODO: 5. Implement and test this function.
     #     The testing code is already written for you (above).
     #
     ####################################################################
